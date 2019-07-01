@@ -17,7 +17,7 @@ no-post-nav: true
 &#160; &#160; &#160; &#160;学不同思想的编程语言肯定没错，但他对Kotlin的评价，我不能苟同。从目前的使用体验，Kotlin更加高效。相比Java的优势也不仅仅是解决了Null的问题或某些语法糖，很多新的特性是Java不具备或者说暂时不具备的。  
 &#160; &#160; &#160; &#160;学习Kotlin，对所有人来说都有帮助，可以打开很多新的思路；对于Android开发来说，我认为是必选项。毕竟Kotlin已经被Google选为Android开发的官方语言，新出的AndroidX库有的也只支持Kotlin。而且各大神也都用Kotlin做开发了。Follow自己的男神就对了~~~
 
-&#160; &#160; &#160; &#160;好了，后面会发一篇介绍Sunflower + Dagger2的文章。  
+&#160; &#160; &#160; &#160;好了，后面会发一篇介绍[Sunflower + Dagger2](https://cuiyiming007.github.io/android/2019/06/24/android-sunflower-java-2.html)的文章。  
 &#160; &#160; &#160; &#160;有时间也会结合自己使用整理一下关于Android Jetpack组件的介绍。
 
 &#160; &#160; &#160; &#160;Ok，欢迎Star&Follow！
